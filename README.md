@@ -2,7 +2,12 @@
 
 My solutions to the assignments in the Natural Language Processing Specialization offered by DeepLearning.AI on Coursera.
 
+## My Specilization Certificate 
+</br>
 
+![](Natural-Language-Processing-Specialization-Coursera.png)
+
+---
 
 ## Courses
 
