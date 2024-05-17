@@ -35,4 +35,4 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 👤 **Thiresh Sidda**
 
 * LinkedIn: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
-* GitHub: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSidda](https://github.com/Thireshsidda)
