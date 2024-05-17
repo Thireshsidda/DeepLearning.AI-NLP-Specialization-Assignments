@@ -43,4 +43,4 @@ This Specialization will equip you with machine learning basics and state-of-the
 👤 **Thiresh Sidda**
 
 * LinkedIn: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
-* GitHub: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSidda](https://github.com/Thireshsidda)
