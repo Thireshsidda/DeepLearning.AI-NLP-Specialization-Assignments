@@ -32,7 +32,7 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Thiresh Sidda**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
